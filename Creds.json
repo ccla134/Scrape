@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "beta-scrape-project-1",
+  "private_key_id": "1a2f6aec766bea871825eab7b2de391cecb3ffeb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEIkQNB8n8EA7M\nPeETfESdMTTIHYp10Z8YHTWicprwIItav4maKlEvV9hYBVNWYFF+2JE0oB0u9iHM\nw41w4lwqKOZmI0biIWANMz8SnP/M6ceSMFVVEI18ooq2SYas/+d9lP2s6Y7KK9wu\nXPB3BpBQo6hYKe1ODeNQ960lw9H46OXRTBRpyP5KY3yrH2q5PufDoTjaWiFp0mut\n/tMQit+RpYaxPGV3AKn6K0UB2bnvzqT9487IqZc1NVtapiJy9q+abSFQNggLRDXZ\nUCm9nEiHFlXS9qYb5cShHYkGcq932Zz+5BVE5LKCLcWFddiyiL9yH5ddFgCyO7La\nbGr3d9LjAgMBAAECggEAFgitcXNPDzi0mOBYwUokIS6uec7Lx8mpYFmjtWC/pDtb\nvHGpIT8gyLtLLDRI9Pq0HRZyVaGpNaXkDS9o2+YqKXhXzeCnrW7HbiQ0MUCfAiO/\nTl6Mr5ZA9uABylG/Rf8nv/V1fC/u4SqFPVYmk5CStOR13JW1OaAYyfdRJd12YMqC\n1cCLA09rg/4tYfRcUSQ3TGhYZUQaYSjbvjherC0hA+s1ch4ceLaU0RHHNHyOv5uV\nR697+kAdvlQu6FIx67vrEa7Qgh3txvacTloNZQ9Bxn13+qMndlHsxVghhiW/FG6D\nF20B05Iz5DLD8F4LFuIWdJFfSbLv9WZooBMP13OzmQKBgQDveJx3H82VLfGLsaDk\nQZuvfozTdKatZCmf9Skr2nHACBxMPknegN7hAIX/RzZAoE3XJjp2wvfBta2Or3vI\nBv4x5vagwJP426T8mJqFxb3gSTPL9t2a71pL52XbKM94gYJZfNVhbWOKWoK/GCpg\nSB4veqj7H0r9hDD1RlJ5H9Es2wKBgQDRq+WRyPMxf41zB7lzy5uf3Xme54Ab69D+\nhPhSyUW+rnjkCEBObiQ8QKTuuStHyoujmpy3Y/AKBXhaYHllbd8Lrx7fhcKkq2AJ\nJhAJN4dhsjyl6oXoVaXXkiJlM9ekIunxib0EYrnMvve9+jQ+t1K3GITaniKTwzIn\nAREHZllMmQKBgQDCDGgtl5XNlscuvad0jz2K/e87wkD2LD4WomDUalTWmTvlBGxz\nYtY4WWY7sAbkY4HwH8gsSFzfmUqkXsrdEd2VrmSXarX9aG7PSRGd6NiuEGNqmgaE\n8AOpkj7VUsKcEcYAocl/A1cv25wrIXflQUtEig64P2lS+XV6q5tVD1U/FQKBgFHU\nzxJo5VGKQMCGYUDqVGC+Zbs5CuzayoSrjOdymn/jRFdrSP3TSt0hNb3eEyA/0uQV\ncdi5bnPa0rAjOv31NbovrNL8N41hPWgUrOmL/JCKqdTvhTe6RbGu3TG2XBE5dyjH\n4zeU+IMKfVJuFnnrvqKrNR7F3STiZ+6FIgpLTcrxAoGAMUuywNvjW7auk1BhQm0n\n4PZH+C13Y5M3KPC2/L/z+IT2ca+g11pdUmYiSOTVf10yGDpFA6u++wkg4JZtl9bp\nlmR+h4iq1M2ebTyWalCA6+1mshzD9PkQazL0z3vhj9VRT+i3hJGnr4azPci8amT/\nIHnoKIuKu6lBsiM4KMRXao0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-for-scrapes@beta-scrape-project-1.iam.gserviceaccount.com",
+  "client_id": "106586710635825633835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-for-scrapes%40beta-scrape-project-1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
