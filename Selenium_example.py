@@ -36,7 +36,7 @@ options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option("detach", True)
 options.add_experimental_option('useAutomationExtension', False)
 try:
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
     driver.get(gdit_url)
     previous_height = 0
     # driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")

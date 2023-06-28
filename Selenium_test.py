@@ -11,7 +11,7 @@ options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option("detach", True)
 options.add_experimental_option('useAutomationExtension', False)
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 driver.get("htps://www.shreveporttimes.com")
 
 print('finished')
