@@ -11,7 +11,7 @@ import gspread
 
 gc = gspread.service_account(filename='Creds.json')
 sh = gc.open('TestScrapeSheet1')
-sh = sh.get_worksheet(6)
+sh = sh.get_worksheet(5)
 
 # url = "https://www.gdit.com/careers/search/?q=bossier%20city"
 # html_text = requests.get(url).text
@@ -20,7 +20,7 @@ sh = sh.get_worksheet(6)
 # for job in soup.find_all('h3'):
 #     print(job)
 
-gdit_url = "https://www.nike.com/w/womens-basketball-shoes-3glsmz5e1x6zy7ok"
+gdit_url = "https://www.nike.com/w/mens-basketball-shoes-3glsmznik1zy7ok"
 # ["https://www.gdit.com/careers/search/?q=bossier%20city",
 #              "https://www.gdit.com/careers/search/?q=bossier%20city&page=2&",
 #              "https://www.gdit.com/careers/search/?q=bossier%20city&page=3&",
